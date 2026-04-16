@@ -151,6 +151,6 @@ The server prints each message as it arrives and sends an acknowledgment back to
 
 <div align="center">
 
-Made with ☕ at [42 Paris](https://42.fr) — **jcrochet**
+Made with ☕ at [42 LeHavre]([https://42LeHavre.fr](https://42lehavre.fr)) — **jcrochet**
 
 </div>
